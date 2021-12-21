@@ -1,0 +1,82 @@
+* {
+  box-sizing: border-box;
+}
+
+.Banner {
+  text-align: center;
+  border-radius: 1rem;
+  line-height: 30px;
+  padding-top: 25px;
+  padding-bottom: 200px;
+  font-family: "Gill Sans";
+  background-color: #DBF6F8;
+  background-image: linear-gradient(to bottom right, #E4F5F7, #b5ecf3);
+}
+
+.App-Title {
+  font-weight: bold;
+  font-size: xx-large;
+  color: black;
+}
+
+.App-Subtitle {
+  font-weight: bold;
+  font-size: x-large;
+  color: dodgerblue;
+  line-height: 20px;
+}
+
+.App-Description {
+  color: #9ba4b0;
+  line-height: 15px;
+  font-size: medium;
+}
+
+.body-container {
+  display: flex;
+  position: relative;
+  top: -170px;
+  width: 90%;
+  margin:0 auto;
+  margin-bottom: 1%;
+  border-radius: 1rem;
+  text-align: center;
+  color: black;
+  box-shadow: 0 5px 5px 0 rgba(160, 158, 158, 0.24), 0 10px 10px 0 rgba(182, 181, 181, 0.19);
+  background: rgba(255, 255, 255, .7);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+}
+
+.bottom {
+  position: fixed;
+  border-radius: 1rem;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  color: black;
+  font-family: "Gill Sans";
+  background-color: #DBF6F8;
+  background-image: linear-gradient(to bottom right, #E4F5F7, #c3eaf1);
+}
+
+.backgroundImg {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 25%;
+  height: 45%;
+  animation: move 3s infinite;
+  animation-direction: alternate;
+}
+
+@keyframes move {
+  0%
+  {
+    transform: translateY(0px);
+  }
+  100%
+  {
+    transform: translateY(20px);
+  }
+}

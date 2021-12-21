@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ed7643e8.chunk.css",
+    "main.js": "/static/js/main.018d8481.chunk.js",
+    "main.js.map": "/static/js/main.018d8481.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.89818fd1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.89818fd1.js.map",
+    "static/js/2.8e9bb70c.chunk.js": "/static/js/2.8e9bb70c.chunk.js",
+    "static/js/2.8e9bb70c.chunk.js.map": "/static/js/2.8e9bb70c.chunk.js.map",
+    "static/js/3.6caab489.chunk.js": "/static/js/3.6caab489.chunk.js",
+    "static/js/3.6caab489.chunk.js.map": "/static/js/3.6caab489.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ed7643e8.chunk.css.map": "/static/css/main.ed7643e8.chunk.css.map",
+    "static/js/2.8e9bb70c.chunk.js.LICENSE.txt": "/static/js/2.8e9bb70c.chunk.js.LICENSE.txt",
+    "static/media/netflix.de79a89f.png": "/static/media/netflix.de79a89f.png",
+    "static/media/paste.f0598ebf.png": "/static/media/paste.f0598ebf.png",
+    "static/media/prime.9f09984b.png": "/static/media/prime.9f09984b.png",
+    "static/media/spotify.f18c2ee7.png": "/static/media/spotify.f18c2ee7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89818fd1.js",
+    "static/js/2.8e9bb70c.chunk.js",
+    "static/css/main.ed7643e8.chunk.css",
+    "static/js/main.018d8481.chunk.js"
+  ]
+}

@@ -1,0 +1,33 @@
+.body-container {
+    display: flex;
+    position: relative;
+    width: 90%;
+    margin:0 auto;
+    border-radius: 1rem;
+    text-align: center;
+    color: black;
+    box-shadow: 0 5px 5px 0 rgba(160, 158, 158, 0.24), 0 10px 10px 0 rgba(182, 181, 181, 0.19);
+    background: rgba(255, 255, 255, .7);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+}
+
+.LeftCard {
+    width: 40%;
+}
+
+.RightCard {
+    width: 60%;
+}
+
+.TeamNavyImg {
+    width: 250px;
+    margin: 2% 0 2%;
+}
+
+.title {
+    font-size: 20px;
+    line-height: 20px;
+    font-family: "Gill Sans";
+    margin-top: 8%;
+}

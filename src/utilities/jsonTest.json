@@ -1,0 +1,15 @@
+{
+  "title" : "Subscriptions Json Test File",
+  "subscriptions" : {
+    "i1" : {
+      "name" : "Netfix",
+      "price" : 17.99,
+      "data" : "Sun Nov 21 2021"
+    },
+    "i2" : {
+      "name" : "Adobe",
+      "price" : 19.99,
+      "data" : "Sun Nov 21 2021"
+    }
+  }
+}

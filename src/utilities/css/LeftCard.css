@@ -1,0 +1,62 @@
+.leftcard {
+    width: 70%;
+    text-align: center;
+    padding-left: 50px;
+    background-image: url("https://i.loli.net/2021/11/20/TrcxSCLNlOMF37y.png");
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+    background-size: 350px;
+}
+
+.demoList {
+    padding: 20px 10px;
+    margin: 20px 120px;
+}
+
+.demoItem {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,0.24), 0 1px 1px 0 rgba(0,0,0,0.19);
+    border-radius: 1rem;
+    margin-bottom: 10px;
+    text-align: left;
+    background: rgba(255, 255, 255, .7);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+}
+
+.descriptions{
+    display: flex;
+    border-radius: 25px;
+    font-weight: bold;
+    font-size: large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 20px;
+    padding-left: 160px;
+}
+
+.subscribeImg {
+    border-radius: 1rem;
+    padding-left: 100px;
+}
+
+.column1{
+    margin-left: 10px;
+    margin-right: 30px;
+}
+
+.column2{
+    font-size:20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-right: 30px;
+}
+
+.column3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-right: 30px;
+}
+
+.leftCardLogin{
+    padding-left: 160px;
+    padding-top: 20px;
+}
